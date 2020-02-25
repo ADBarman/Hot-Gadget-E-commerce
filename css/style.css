@@ -165,7 +165,7 @@ span {
     margin-bottom: 100px;
 }
 .footer-wrapper {
-    padding: 20px 200px;
+    padding: 20px 0px;
     border-top: 1px solid #E0E0E0;
 }
 .text-center {
@@ -173,4 +173,8 @@ span {
 }
 .copyright{
     color: #000000;
+}
+footer{
+    padding-left: 200px;
+    padding-right: 200px;
 }
